@@ -1,2 +1,2 @@
 # spacegame
-space game from Microsoft
+Space game
